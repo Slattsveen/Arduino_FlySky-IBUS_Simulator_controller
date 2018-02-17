@@ -12,5 +12,11 @@ Components:
 - 1 FlySky IBUS receiver (tested with the FS-RX2A Pro https://www.banggood.com/2_4G-Compatible-FS-RX2A-Pro-Receiver-for-FS-I6-FS-I6X-FS-I6S-FS-TM8-FS-TM10-FS-I10-Transmitter-p-1145881.html?rmmds=myorder&cur_warehouse=CN)
 - FlySky radio controller (I use the FS-i6)
 
+Setting up:
+I use SoftwareSerial to read the incoming ibus channel on pin 10.
+IBUS - pin 10
+Vcc - 5V
+Gnd - Gnd
+
 
 Disclaimer: I share this code with the community, I will not be developing it further unless I wish to change something for myself. Feel free to copy and modify as you wish.
