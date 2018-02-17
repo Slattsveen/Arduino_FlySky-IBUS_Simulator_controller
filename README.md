@@ -2,7 +2,7 @@
 This project uses an Arduino Micro to decode and emulate a joystick device for use with quadcopter simulators. 
 Builds on the following libraries, they are needed for my sketch to work:
 https://github.com/aanon4/FlySkyIBus
-Joystick library by Matthew Heironimus
+Joystick library by Matthew Heironimus - http://mheironimus.blogspot.no/2015/04/add-up-to-3-usb-game-controllers-to.html - https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/version-1.0
 
 
 Components:
